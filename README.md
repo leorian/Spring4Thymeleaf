@@ -104,3 +104,14 @@
 ----------
 1.众里寻它千百度，蓦然回首，那人却在灯火阑珊处。<br/>
 2.以面向过程和面向对象的编程思想学习新语言。<br/>
+<p></p>
+**技术博客**
+
+----------
+公开博客：[http://blog.csdn.net/xzg1573623031](http://blog.csdn.net/xzg1573623031 "CSDN")
+<br/>
+私人博客：[http://www.cnblogs.com/leorain/](http://www.cnblogs.com/leorain/ "博客园")
+<br/>
+个人主页：[https://phpwordpress-leorain.rhcloud.com](https://phpwordpress-leorain.rhcloud.com "wordpress")
+<br/>
+项目地址：[https://github.com/leorian](https://github.com/leorian "github")
